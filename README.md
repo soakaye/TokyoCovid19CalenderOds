@@ -2,6 +2,7 @@
 Covid-19 calender for Tokyo
 
 東京都用新型コロナ感染カレンダーです。
+LibreOffice 7.1 Calc用です。
 
 無保証プログラムであり、ご自由にご利用ください。<br>
 GNU General Public License v3にて公開します。<br>
