@@ -13,6 +13,5 @@ GNU General Public License v3にて公開します。<br>
 
 [ここから寄付をお願いします。(https://paypal.me/soakaye?locale.x=ja_JP)](https://paypal.me/soakaye?locale.x=ja_JP)
 
-![image](https://user-images.githubusercontent.com/4694264/128636057-4eac4a4a-a359-4236-8314-92c0df598294.png)
-
-![image](https://user-images.githubusercontent.com/4694264/128636087-10d5d9a1-ebcb-4f40-a067-2d22e0df5124.png)
+![image](https://user-images.githubusercontent.com/4694264/128671147-935d16ef-15bc-43c9-9993-bf06d3c627d4.png)
+![image](https://user-images.githubusercontent.com/4694264/128671240-85b0161a-410c-4033-9024-4f99b81b47ea.png)
