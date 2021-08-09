@@ -4,6 +4,7 @@ Covid-19 calender for Tokyo
 東京都用新型コロナ感染カレンダーです。
 
 無保証プログラムであり、ご自由にご利用ください。<br>
+GNU General Public License v3にて公開します。<br>
 完全に無保証です。助言・クレーム等一切受け付けません。
 
 寄付は、大歓迎です。<br>
